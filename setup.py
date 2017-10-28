@@ -1,8 +1,7 @@
-#!/usr/bin/env python
+#!/home/pc/anaconda3/envs/py26/bin/env python
 
 # Bootstrap installation of Distribute
-import distribute_setup
-distribute_setup.use_setuptools()
+
 
 import sys
 
